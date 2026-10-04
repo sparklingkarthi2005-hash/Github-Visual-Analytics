@@ -6,7 +6,7 @@ An interactive web dashboard built with JavaScript, Tailwind CSS, and Chart.js t
 
 ## 🚀 Live Demo
 
-Check out the live project here: [Your Live Demo Link](https://your-site-name.netlify.app)
+Check out the live project here: https://github-visual-analytics.onrender.com
 
 ---
 
